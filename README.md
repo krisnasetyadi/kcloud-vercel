@@ -1,4 +1,4 @@
-# Practical Cloud Computing Assigment 
+# Practical Cloud Computing Assignment 
 Link : https://kcloud-vercel.vercel.app/
 
 Build in the following technologies :
